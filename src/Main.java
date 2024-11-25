@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("Задание№1");
+        System.out.println("Задание№1.");
 
         int clientOS = 0;
 
@@ -12,7 +12,7 @@ public class Main {
             System.out.println("Установите версию приложения для Android по ссылке");}
 
 
-        System.out.println("Задание№2");
+        System.out.println("Задание№2.");
 
         int clientOS1 = 0;
         int clientDeviceYear = 2015;
@@ -30,7 +30,7 @@ public class Main {
                 System.out.println("Установите версию приложения для Android по ссылке");}
         }
 
-        System.out.println("Задание№3");
+        System.out.println("Задание№3.");
 
         int year = 2020;
 
@@ -41,7 +41,7 @@ public class Main {
         } else {
             System.out.println(year + " год не является високосным");}
 
-        System.out.println("Задание№4");
+        System.out.println("Задание№4.");
 
         int deliveryDistance = 95;
         int deliveryDays;
@@ -59,7 +59,7 @@ public class Main {
 
         System.out.println("Потребуется дней: " + deliveryDays);
 
-        System.out.println("Задание№5");
+        System.out.println("Задание№5.");
 
         int monthNumber = 12;
 
